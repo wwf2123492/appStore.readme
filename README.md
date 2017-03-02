@@ -12,7 +12,7 @@ If you have any question please email
 IP Tools is Tools for Ping,Trace, Get self IP info,Port Scan.
 Easy and Usefully Network Diagnostic Tool.
 
-![logo](https://github.com/wwf2123492/appStore.readme/blob/master/pic/nettools.jpg?raw=true  =200x)
+![logo](https://github.com/wwf2123492/appStore.readme/blob/master/pic/nettools.jpg?raw=true)
 
 ### Ping
 
